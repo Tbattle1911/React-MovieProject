@@ -1,0 +1,24 @@
+.movies {
+    text-align: center;
+    margin-bottom: 3rem;
+    
+}
+
+p {
+    color: #a1a1a1;
+    font-size: 30px;
+}
+
+span {
+    height: 1rem;
+    width: 3rem;
+    color: #FF00FF;
+}
+
+.card-img:hover {
+    background-color: transparent;
+    opacity: 0.2;
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+}
+
